@@ -1,0 +1,9 @@
+SomeString: "Hello from Git!"
+SomeNumber: 99
+SomeDecimal: 2.718
+SomeBoolean: false
+SecretMessage: "{cipher}68751e57fd082bb1ea0dd5f5879d6ecea5d2346124f6f4f2890e4502855ec4c121bc7f974b15d370a0c1223f6de7c5b309ea25f33ebe816b8fe5c4b40c752c84"
+SomeListOfStrings:
+  - Delta
+  - Echo
+  - Foxtrot

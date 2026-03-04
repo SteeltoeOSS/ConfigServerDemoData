@@ -1,0 +1,5 @@
+Info:
+  Description: "Served from github.com"
+  Url: "https://github.com/SteeltoeOSS/ConfigServerDemoData"
+
+ValueFromGit: "This key only exists in the Git source"

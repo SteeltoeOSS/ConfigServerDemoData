@@ -1,0 +1,5 @@
+ProductionOnly: This value is from a .yml file (git, Production profile)
+SomeListOfStrings:
+  - Tango
+  - Uniform
+  - Victor
